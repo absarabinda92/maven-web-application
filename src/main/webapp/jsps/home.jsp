@@ -13,7 +13,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		
 	</span>
 	<span style="font-weight: bold;">
 		RAJENDRA NAYAK Technologies, 
