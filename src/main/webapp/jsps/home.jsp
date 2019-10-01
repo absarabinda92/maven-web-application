@@ -9,27 +9,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to RAJENDRA NAYAK Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
-<hr>
-<div style="text-align: center;">
-	<span>
-		
-	</span>
-	<span style="font-weight: bold;">
-		RAJENDRA NAYAK Technologies, 
-		LIGHTHOUSE PG
-		Bangalore. 560037
-		+91-7013067962,
-		<br>
-		<a href="mailto:raajendranayak@gmail.com">Mail to RAJENDRA NAYAK Technologies</a>
-	</span>
-</div>
-<hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
-<hr>
-<hr>
-<p align=center>RAJENDRA NAYAK Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://rajendranayaktechnologies.com/">RAJENDRA NAYAK Technologies</a> </small></p>
-
+<h2>SIGN UP HERE</h2>
+<h2>Log in to My Site</h2>
+	<button type="submit">SIGN UP</button>
 </body>
 </html>
