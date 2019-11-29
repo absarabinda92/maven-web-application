@@ -18,11 +18,11 @@
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<spring.version>5.1.2.RELEASE</spring.version>
+		<spring.version>0.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://34.228.228.91:9000/</sonar.host.url>
-		<sonar.login>32ae244d65b2c8d7468630b6932e50b4eb0b83dc</sonar.login>
+		<sonar.host.url>http://172.31.45.95:9000/</sonar.host.url>
+		<sonar.login>e862b1a2a4cf4088ba72debbe55a8c975917b824</sonar.login>
 		<!-- <sonar.password>admin</sonar.password> -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
